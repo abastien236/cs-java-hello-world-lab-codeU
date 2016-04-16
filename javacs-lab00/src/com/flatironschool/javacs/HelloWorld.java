@@ -9,6 +9,7 @@ public class HelloWorld {
     }
 
     public static void main(String[] args) {
-	    System.out.println("hello");
+      Double vers = getVersion();
+	    System.out.println(vers);
     }
 }
