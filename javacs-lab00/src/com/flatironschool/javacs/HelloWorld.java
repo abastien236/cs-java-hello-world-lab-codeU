@@ -1,4 +1,4 @@
-//package com.flatironschool.javacs;
+package com.flatironschool.javacs;
 
 public class HelloWorld {
 
